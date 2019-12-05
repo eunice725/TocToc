@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     Handler writeHandler;
 
-    //add!!!!
+    //add ~~~~~~~~~~~~~~~~~~
 
     Socket socket;
     BufferedInputStream bin;
